@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbf48b3a-7d2d-4922-ba8f-132f3a2c95a0" name="Changes" comment="">
+    <list default="true" id="fbf48b3a-7d2d-4922-ba8f-132f3a2c95a0" name="Changes" comment="chaneges">
+      <change afterPath="$PROJECT_DIR$/data_types/strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_types/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_types/variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +50,7 @@
   "keyToString": {
     "Python.integers.executor": "Run",
     "Python.numbers.executor": "Run",
+    "Python.strings.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -71,6 +74,15 @@
       <option name="presentableId" value="Default" />
       <updated>1735381314024</updated>
     </task>
+    <task id="LOCAL-00001" summary="chaneges">
+      <option name="closed" value="true" />
+      <created>1735388112630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735388112630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chaneges" />
+    <option name="LAST_COMMIT_MESSAGE" value="chaneges" />
   </component>
 </project>
